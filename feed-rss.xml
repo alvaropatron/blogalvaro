@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+    <channel>
+        <title>Alvaro Blog</title>
+        <link>https://github.com/alvaropatron/blogalvaro.git/feed-rss.xml</link>
+        <description>Descripción del Blog de Alvaro</description>
+
+        <item>
+            <title>Artículo 1</title>
+            <link>https://github.com/alvaropatron/blogalvaro.git/feed-rss.xml</link>
+            <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit...</description>
+            <pubDate>Mon, 13 Mar 2024 00:00:00 GMT</pubDate>
+        </item>
+
+        <item>
+            <title>Artículo 2</title>
+            <link>https://github.com/alvaropatron/blogalvaro.git/feed-rss.xml</link>
+            <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit...</description>
+            <pubDate>Tue, 14 Mar 2024 00:00:00 GMT</pubDate>
+        </item>
+
+        <item>
+            <title>Artículo 3</title>
+            <link>https://github.com/alvaropatron/blogalvaro.git/feed-rss.xml</link>
+            <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit...</description>
+            <pubDate>Wed, 15 Mar 2024 00:00:00 GMT</pubDate>
+        </item>
+
+    </channel>
+</rss>
